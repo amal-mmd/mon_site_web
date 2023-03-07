@@ -12,4 +12,6 @@ mch_get_host_name(char_u *s, int len)
 #else
     vim_strncpy(s, "Amiga", len - 1);
 #endif
-}
+
+
+aaaaaaaaaaaaaaaaaaaaaaaaa}
